@@ -1,4 +1,4 @@
-# Capstone-Resume-Parser-Group1
+# Capstone-Resume-Parser
 Building a Resume Parser in Python using NLP (SpaCy library) and deploying the model on a GCP using Streamlit application.
 
 # INTRODUCTION
