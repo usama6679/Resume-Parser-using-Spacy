@@ -30,6 +30,7 @@ def pred(text):
     return output
 
 st.title("Resume Parser with Spacy")
+st.caption('This is a string that explains something above.')
 st.subheader("Upload your resume here!")
 uploaded_file = st.file_uploader("Upload Files",type=['pdf','docx'])
 if uploaded_file is not None:
